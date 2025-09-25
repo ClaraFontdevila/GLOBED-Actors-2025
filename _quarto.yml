@@ -1,6 +1,3 @@
-project:
-  type: website
-
 website:
   title: "GlobedActors25"
   navbar:
@@ -19,3 +16,8 @@ format:
 
 editor: visual
 
+project:
+  type: website
+  output-dir: docs
+  
+# ~ additional metadata excluded for brevity ~
