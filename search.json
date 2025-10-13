@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
+    "section": "",
+    "text": "Hello!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Actors in Education and Development",
+    "section": "",
+    "text": "Course syllabus\nLecture presentations(In-class presentations will be made available in PDF format at the end of the session.) Class presentations will be made available in PDF format at the end of each session.\nReading materials Link will expire on the 31/10/2025."
+  },
+  {
+    "objectID": "index.html#course-materials",
+    "href": "index.html#course-materials",
+    "title": "Actors in Education and Development",
+    "section": "",
+    "text": "Course syllabus\nLecture presentations(In-class presentations will be made available in PDF format at the end of the session.) Class presentations will be made available in PDF format at the end of each session.\nReading materials Link will expire on the 31/10/2025."
+  },
+  {
+    "objectID": "index.html#assignment-guidelines",
+    "href": "index.html#assignment-guidelines",
+    "title": "Actors in Education and Development",
+    "section": "Assignment guidelines:",
+    "text": "Assignment guidelines:\n\nGroup assignment: Guidelines will be provided on the 24/10/2025.\nIndividual assignment: Guidelines will be provided on the 24/10/2025.\nWriting resources:\n\nWriting essays: Some guidelines"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GlobedActors25",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
